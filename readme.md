@@ -1,3 +1,3 @@
-Simple border animation using html and css
+Simple image searching using html, css and js
 
 code from codelab or codegirl
