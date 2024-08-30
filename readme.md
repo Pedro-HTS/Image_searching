@@ -1,3 +1,3 @@
 Simple image searching using html, css and js
 
-code from codelab or codegirl
+code codelab, codegirl or codenepal.
